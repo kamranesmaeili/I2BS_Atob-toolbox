@@ -4,7 +4,7 @@ In this repository, there are two files including the AtoB modules and a demo to
 "AtoB modules.R" includes all the modules as well as other parameters and tables necessary for the calculations.
 
 ## Installing R, RStudio and libraries
-You will need to download and install [R native](https://www.r-project.org/) as well as [RStudio](https://rstudio.com/).
+In order to use this toolbox you will need to install R language and an integrated development environment (IDE) for R. You can download and install [R native](https://www.r-project.org/) to support R on your computer, and [RStudio](https://rstudio.com/) as the preferred IDE for R.
 After the installation is completed, you can start using R by opening "Demo.R" in Rstudio and installing libraries using:
 
 ```R
